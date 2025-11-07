@@ -25,8 +25,6 @@ Rowan, Tamsin, Rook, Tiriel, Bronwyn, Sylara
 
 ## Where did you grow up? Roll 1d6:
 
-|       |                                                                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | **Forest/Jungle** - Studying a creature or plant for 1 hour allows you to gain basic knowledge about it, such as how dangerous it is, what uses it might have and what are its weaknesses. |
 | **2** | **City** - Can track a humanoid as long as the tracks still exist and they aren’t being magically hidden.                                                                                  |
 | **3** | **Fae Wild** - If in starlight, you can make light shine out of your hand. (As bright as a torch)                                                                                          |
@@ -36,8 +34,6 @@ Rowan, Tamsin, Rook, Tiriel, Bronwyn, Sylara
 
 ## What do you find while wandering around? Roll 1d6:
 
-|       |                        |                                                                                                                                                                   |
-| ----- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Albino Deer Pelt**   | You found a albino deer dying in a meadow. Its fur is comfortable enough to sleep on any surface and sitting on it makes riding a horse all day a breeze.         |
 | **2** | **Elvish Cloak**       | Unusually light and superbly water-proof. Protects you from the wind and rain, even in the worst storms.                                                          |
 | **3** | **Ocarina of Sleep**   | Playing this instrument can cause simple animals near you to fall asleep, even if they are aggressive. But make a WIS save to avoid falling asleep yourself.      |

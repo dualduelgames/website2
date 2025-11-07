@@ -44,7 +44,7 @@ Stories	Recall the legends/history
 Rituals	Perform a magic ritual/sacrifice
 
 ## When to Roll
-
+{: .no_toc }
 * There is a penalty for failure  
 * Cannot be repeated infinitely
 
@@ -194,73 +194,65 @@ Rituals take 15 minutes to perform.
 
 **Name:** Deer	**Health:** 8  
 **Target Number:** 6  
-**Armour:**  
-None  
-**Attack		Damage**  
-Kick/Headbut	2  
+**Armour:** None  
+**Attack Damage**  
+Kick/Headbut 2  
 **Resources:**  
 2 food, 1 bone, 1 fur
 
 **Name:** Bear	**Health:** 24  
 **Target Number:** 10  
-**Armour:**  
-1 Armour  
-**Attack		Damage**  
-Bite/Scratch	5  
+**Armour:** 1 Armour  
+**Attack Damage**  
+Bite/Scratch 5  
 **Resources:**  
 1 food, 2 bone, 2 fur
 
 **Name:** Saber Tiger	**Health:** 24  
 **Target Number:** 11  
-**Armour:**  
-None  
-**Attack		Damage**  
-Bite/Scratch	5  
+**Armour:** None  
+**Attack Damage**  
+Bite/Scratch 5  
 **Resources:**  
 1 food, 2 bone, 2 fur
 
 **Name:** Snake	**Health:** 5  
 **Target Number:** 6  
-**Armour:**  
-None  
-**Attack		Damage**  
-Bite		4  
+**Armour:** None  
+**Attack Damage**  
+Bite 4  
 **Resources:**  
 1 food
 
 **Name:** Wolf	**Health:** 10  
 **Target Number:** 8  
-**Armour:**  
-None  
-**Attack		Damage**  
-Bite		4  
+**Armour:** None  
+**Attack Damage**  
+Bite 4  
 **Resources:**  
 1 fur, 1 food. 1 bone
 
 **Name:** Cave-Thug	**Health:** 12  
 **Target Number:** 8  
-**Armour:**  
-None  
-**Attack		Damage**  
-Wood Club	4  
+**Armour:** None  
+**Attack Damage**  
+Wood Club 4  
 **Resources:**  
 1 wood club, 1 fur
 
 **Name:** War Chief	**Health:** 20  
 **Target Number:** 10  
-**Armour:**  
-1 Armour  
-**Attack		Damage**  
-Spiked Club	6  
+**Armour:** 1 Armour  
+**Attack Damage**  
+Spiked Club 6  
 **Resources:**  
 1 spiked club, 1 fur
 
 **Name:** Shaman	**Health:** 10  
 **Target Number:** 12  
-**Armour:**  
-1 Armour  
-**Attack		Damage**  
-Cause Harm\*	4  
+**Armour:** 1 Armour  
+**Attack Damage**  
+Cause Harm\* 4  
 **Resources:**  
 2 bone, 2 fur  
 **Rituals:**  
@@ -268,19 +260,17 @@ Cause Harm, Extract Truth, Change Weather
 
 **Name:** Zombie	**Health:** 12  
 **Target Number:** 8  
-**Armour:**  
-None  
-**Attack		Damage**  
-Raaargh		3  
+**Armour:** None  
+**Attack Damage**  
+Raaargh 3  
 **Resources:**  
 2 bone
 
 **Name:** Monster	**Health:** 32  
 **Target Number:** 13  
-**Armour:**  
-1 Armour  
-**Attack		Damage**  
-Slash		10  
+**Armour:** 1 Armour  
+**Attack Damage**  
+Slash 10  
 **Resources:**  
 3 fur, 3 bone
 

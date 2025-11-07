@@ -11,8 +11,6 @@ Spells are split into several categories. Each one has a different theme. For a 
 ## 1 Silver Magic
 Weapons, Armour, Combat
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Enchant Ammo**      | A piece of ammo or a thrown weapon becomes enchanted for 15 minutes and begins to glow. It provides the same light as a torch but can be any colour and does not produce any heat. |
 | **2**   | **Enchant Blade**     | A bladed weapon becomes enchanted for a few minutes to deal double damage to undead creatures and spirits. |
 | **3**   | **Enchant Bludgeon**  | A blunt weapon becomes enchanted for a few minutes to deal double damage to structures and objects. |
@@ -24,8 +22,6 @@ Weapons, Armour, Combat
 ## 2 Beige Magic
 Wind, Sand, Storms
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Deafen**            | Each creature within a short distance (including you) becomes deaf for a few minutes. |
 | **2**   | **Wind Gust**         | An object or creature (up to the size of a person) gets pushed a short distance away from you. A creature can choose to resist this movement by rolling a Str save. |
 | **3**   | **Lightning Bolt**    | A metal object that is under a cloudy sky is struck by lightning. The object is likely to be damaged by this. A creature holding the object can make a Dex save to avoid a d6 of damage by dropping the object. |
@@ -37,8 +33,6 @@ Wind, Sand, Storms
 ## 3 Green Magic
 Plants, Growth, Food
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Grow-Up**           | A plant you touch grows suddenly as if a full growing season happened. Ignoring negative weather conditions and lack of sunlight. |
 | **2**   | **Bland Tongue**      | You and each creature within close range becomes unable to smell or taste for 15 minutes. |
 | **3**   | **Veggie-Might**      | Plants in close range animate and become hungry for flesh, any flesh. They are weak but last until destroyed or the next dawn.  |
@@ -50,8 +44,6 @@ Plants, Growth, Food
 ## 4 Orange Magic
 Animals, Hunting, Tracking
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Speedify**          | A willing creature you touch can move at triple its normal speed for 1 hour. At the end of the spell they gain a fatigue. |
 | **2**   | **B**      | Y. |
 | **3**   | **V**      | P.  |
@@ -63,8 +55,6 @@ Animals, Hunting, Tracking
 ## 5 Purple Magic
 Psychics, Telekinesis, Teleporting
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Teleport**          | Make a WIL save. If you succeed, an object or a willing creature you touch disappears and reappears somewhere you can see within long range. If you failed the check, the GM decides where the creature ends up and the target gains 1 fatigue. |
 | **2**   | **Travel**            | Make a WIL save. If you succeed, a willing creature you touch reappears somewhere you are familiar with within 15 km. If you failed the check, the GM decides where the creature ends up on this plane of existence. |
 | **3**   | **Command**           | You give a one word command to a target who must follow it. The command can't be self-destructive or suicidal. The spell lasts for 1 hour but the target can make a WIL save every 5 minutes to suppress the command for the next 5 minutes. The spell effect also ends early if the target takes damage. |
@@ -76,8 +66,6 @@ Psychics, Telekinesis, Teleporting
 ## 6 Teal Magic
 Cold, Slow, Sleep
 
-|         |                       |                                                                                                                                                                                                                                                                                              |
-| ------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Ice Patch**         | A small circle of ice forms on a surface within a short distance. Any creature trying to move into/through or trying to push/pull on the surface must make a DEX save. |
 | **2**   | **Sleep**             | A creature you can see within short range rolls a WIL save. If they fail, they fall asleep. The spell lasts for up to 15 minutes, or until they are physically woken up. |
 | **3**   | **Slow it Down**      | A creature within short range of you must make a STR save each turn, on a failure they lose half their movement. The spell lasts for a few minutes.  |

@@ -68,7 +68,7 @@ Combat goes back and forth between the players & allies and enemies & environmen
 **Defending:** Roll based on the situation. If you succeed you dodge/block the attack and take no damage or effects.
 
 ### Action Guide
-
+{: .no_toc }
 Major actions: When it is your turn, you can do one of the following actions:  
 **Attack** \- Perform an attack against a target in range using a weapon.  
 **Aid** \- Help someone else with a task they are performing. This cancels a “Real Trouble” or makes it a “Piece of Cake”. Need to justify how you are helping.  
@@ -105,18 +105,18 @@ Clothing, a Pistol, a Flashlight, 1 Ration.
 In between missions the player characters can restock the gear they used (except Energy Cells). And will often be given a minor reward (see Rewards section).
 
 ### Damage Guide
-
+{: .no_toc }
 | **Melee attacks** | 1 damage | **Alien Weapons** | 3 damage |
 | **Bullets** | 2 damage | **Explosions** | 4+ damage |
 
 ### Armour Guide
-
+{: .no_toc }
 | **Bullet proof vest** | 1 armour vs ranged attacks |
 | **Env suit** | Resistant to some environmental effects |
 | **Heavy armour** | 1 armour to every attack |
 
 ### Range Guide
-
+{: .no_toc }
 | **Close Range** | 0-2 meters | **Medium Range** | 13-50 meters |
 | **Short Range** | 3-12 meters | **Long Range** | 51+ meters |
 
@@ -124,37 +124,37 @@ In between missions the player characters can restock the gear they used (except
 
 Traps, minions, captured civilians, weird alien fauna, etc...
 
-Name: Civilian
-Health: 4
+**Name:** Civilian
+**Health:** 4
 **Stat:** 5
 **Armour:**  0
 **Defense:** Piece of Cake
 **Attacks:** Improvised, 1 dmg
 **Gear:** Clothing
 
-Name: Alien Thug
-Health: 5
+**Name:** Alien Thug
+**Health:** 5
 **Stat:** 2
 **Armour:** 0
 **Defense:** Normal
 **Attacks:** Zapper, short, stuns/3 dmg
 **Gear:** Uniform, Zapper
 
-Name: Alien Leader
-Health: 6
+**Name:** Alien Leader
+**Health:** 6
 **Stat:** 5
 **Armour:** 1 vs all
 **Defense:** Real Trouble
 **Attacks:** Staff, medium, 3 dmg
 **Gear:** Alien Armour, Alien Staff
 
-Name: Trip Mine
-Damage:6
-Detect: Normal
-Disarm: Real Trouble
+**Name:** Trip Mine
+**Damage:** 6
+**Detect:** Normal
+**Disarm:** Real Trouble
 
-Name: Alien creature
-Health: 3
+**Name:** Alien creature
+**Health:** 3
 **Stat:** 3
 **Armour:** 0
 **Defense:** Real Trouble
@@ -164,7 +164,7 @@ Health: 3
 
 # GM Reference
 
-### Planet Generator
+## Planet Generator
 
 The list below is the details the player team was given when they were recruited for the mission. Roll on the table 3 times (or choose).
 
@@ -176,7 +176,7 @@ The planet…
 5. Isn’t controlled by the bad guys  
 6. Has friendly Local fauna
 
-### Mission Generator
+## Mission Generator
 
 Roll on the table below 3 times (or choose).
 
@@ -188,18 +188,34 @@ The mission…
 5. Has no missing information  
 6. Isn't time sensitive
 
-### Fast-forward
+## Fast-forward
 
 If a combat or obstacle is trivial it should be skipped. The GM should narrate what happened and keep the story moving. For example, if the characters way out number an enemy and the fight is going to be boring. Or skip the roll for an action when there is no real penalty for failure, or there is no time pressure.
 
-### GM Actions
+## GM Actions
 
-Ways for the GM to mix things up. Each time a player uses a characters skill, you earn a point that can be used to trigger one of the following effects:  
-**Weren't you counting?** A character suddenly finds their weapon is out of ammo. Or it malfunctioned.  
-**Curse your inevitable betrayal\!** An NPC the players thought was on their side is discovered to be a double agent.  
-**Stop, or my mom will shoot\!** A civilian the players are supposed to be protecting gets in on the action.  
-**Surprise Attack\!** An enemy has snuck up on the players and they had no chance to detect them, but the first attack of the enemy barely misses its target.  
-**Talk about luck.** An enemy attack hits a piece of gear instead of the character. That piece of gear is damaged and will have to be repaired.  
-**I went to school too\!** An enemy uses a skill that they wouldn’t be expected to have.  
-**How could there be a pyramid here?** A device/structure turns out to be an ancient alien device. It is almost magical because of how advanced it is.  
-**Of course he’s here\!** A big baddie shows up just in time to taunt the players characters and escape.
+Ways for the GM to mix things up. Each time a player uses a characters skill, you earn a point that can be used to trigger one of the following effects:
+  
+**Weren't you counting?**
+A character suddenly finds their weapon is out of ammo. Or it malfunctioned.  
+
+**Curse your inevitable betrayal\!**
+An NPC the players thought was on their side is discovered to be a double agent.  
+
+**Stop, or my mom will shoot\!**
+A civilian the players are supposed to be protecting gets in on the action.  
+
+**Surprise Attack\!**
+An enemy has snuck up on the players and they had no chance to detect them, but the first attack of the enemy barely misses its target.  
+
+**Talk about luck.**
+An enemy attack hits a piece of gear instead of the character. That piece of gear is damaged and will have to be repaired.  
+
+**I went to school too\!**
+An enemy uses a skill that they wouldn’t be expected to have.  
+
+**How could there be a pyramid here?**
+A device/structure turns out to be an ancient alien device. It is almost magical because of how advanced it is.  
+
+**Of course he’s here\!**
+A big baddie shows up just in time to taunt the players characters and escape.

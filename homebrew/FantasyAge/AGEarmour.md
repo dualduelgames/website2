@@ -7,7 +7,7 @@ parent: Fantasy Age
 
 # Fantasy Age 2E Armour Table
 
-| Name | Price | Description | Type |
+| **Name** | **Price** | **Description** | **Type** |
 | Buckler | 15sp | defense +1 | Shield |
 | Manica | 20sp | "defense +1, doesn't take up a hand" | Shield |
 | Spike Shield | 30sp | "defense +1, 1d6-1 damage, -1 min str" | Shield |

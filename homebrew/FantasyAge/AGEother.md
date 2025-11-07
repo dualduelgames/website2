@@ -7,7 +7,7 @@ parent: Fantasy Age
 
 # Fantasy Age 2E Misc Table
 
-| Name | Price | Description | Type |
+| **Name** | **Price** | **Description** | **Type** |
 | Sabaton | 7sp |  | feet |
 | Jikatabi | 6sp |  | feet |
 | Boots | 5sp |  | feet |

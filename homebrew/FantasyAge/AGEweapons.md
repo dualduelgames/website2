@@ -7,7 +7,7 @@ parent: Fantasy Age
 
 # Fantasy Age 2E Weapon Table
 
-| Name | Price | Description | Type | Min Str |
+| **Name** | **Price** | **Description** | **Type** | **Min Str** |
 | Stone Axe | 9sp | 1d6 | Axes | 1 |
 | Throwing Axe | 10sp | 1d6+2 (thrown 4y/8y) Minor reload | Axes | 1 |
 | Battleaxe | 14sp | 2d6 | Axes | 1 |

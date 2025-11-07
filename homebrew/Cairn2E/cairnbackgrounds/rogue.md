@@ -25,8 +25,6 @@ Corin, Finnian, Flint, Seraphine, Maive, Sable
 
 ## Who was your first kill? Roll 1d6:
 
-|       |                                                                                                         |
-| ----- | ------------------------------------------------------------------------------------------------------- |
 | **1** | **A Wizard** - You took a random spellbook (roll d100).                                                 |
 | **2** | **A Knight** - You took his trusty horse (+4 slots).                                                    |
 | **3** | **An Alchemist** - You have a small vial of poison (1 use, _petty_), and a bottle of Antitoxin (1 use). |
@@ -36,8 +34,6 @@ Corin, Finnian, Flint, Seraphine, Maive, Sable
 
 ## What was your last job? Roll 1d6:
 
-|       |                                                                                                                |
-| ----- | -------------------------------------------------------------------------------------------------------------- |
 | **1** | **Bounty Hunting** - You have a poster of a wanted criminal(_petty_).                                          |
 | **2** | **Robbery** - You get an extra 2d6 Gold Pieces.                                                                |
 | **3** | **Jail Break** - A group of local criminals owes you a big favor.                                              |

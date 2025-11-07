@@ -65,15 +65,15 @@ You can do 2 of the following actions per turn:
 **Interact:** You can use, store, or remove an item.
 
 ### Damage Guide
-
+{: .no_toc }
 | Poison | 2 Damage per Minute |
 | :---- | :---- |
 | Melee Attacks | 4 Damage |
 | Bullets | 6 Damage |
 | Explosions | 10 Damage |
 
-## After Combat
-
+### After Combat
+{: .no_toc }
 **Reloading Guns:**  
 If you used a gun during the last combat, you need to make a *Submachine Guns* roll. If you failed the roll you are out of ammo for it.  
 **Healing Injuries:**  

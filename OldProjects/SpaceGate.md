@@ -29,13 +29,13 @@ Stats vary from 1 to 4 (they each start at 1\) and you get to distribute 5 point
 **Health**	endurance, resisting, how many times you can be hit before going down. Your health stat is special in that it has a Max value and a Current value. The current value decreases as you take damage but can be healed back up to your max. You always use the current value to build your dice pool for Health.
 
 ### When Trying To Do Something
-
+{: .no_toc }
 You roll a pool of D6 based on your stat  
 You always have at least 1d6, but your stat can add more dice to the pool. Your skills can also add a die if they apply to the thing you are trying to do. The GM can also add a die for excellent equipment or situational benefits.  
 You roll your dice pool, and **if you got at least one 5 or 6, then you succeed**.
 
 ### Real Trouble
-
+{: .no_toc }
 If the situation is making something even more difficult to do, you remove a die from your pool. You could also remove a die if you have broken or improvised equipment.  
 **If your pool has no dice in it, you cannot attempt the roll.**
 
@@ -63,7 +63,7 @@ Characters have Skills that they can use to investigate the situation and gather
 *Computers, Biology, Explosives, Piloting, Mechanics, martial arts, xeno-technology, linguistics, mountain climbing, Debating, etc…*
 
 ### When Investigating
-
+{: .no_toc }
 There is no roll required, you just describe how one of your skills could allow you to gather the information and it is up to the GM to decide if it works.If there is a risk of something bad happening while investigating, the GM will ask you to make a dice pool roll using one of your stats. This roll is only for if you avoid the negative effects.  
 **Investigating can take multiple forms.** You could be hacking into a computer to access information, using your knowledge of explosives to understand how a building was destroyed, or even using martial arts to beat the info out of a goon you captured.
 
@@ -101,7 +101,7 @@ Some enemies might cause you to remove dice from your pool when attacking them o
 A character that was hit by a stunning weapon can only take one action on their turn to do a Health roll to resist the effect.
 
 ### Action Guide
-
+{: .no_toc }
 When it is your turn, you can do the following actions:  
 **Attack** \- Perform an attack against a target using a weapon.  
 **Aid** \- Help someone else with a task they are performing. Usually this means giving them \+1D6 to their roll. Need to justify how you are helping.  
@@ -114,19 +114,21 @@ When it is your turn, you can do the following actions:
 **Hide** \- Roll Subtle to try to hide behind something.
 
 ### Damage Guide
-
+{: .no_toc }
 Most weapons deal 1 damage when you successfully roll. Heavy weapons can deal more damage if you roll multiple dice and get multiple successes. Some enemies might have technology to limit the damage you can deal to only 1 per attack.
 
 ### Armour Guide
-
+{: .no_toc }
 **Bullet-proof Vest**		\+1 to your Max Health  
 **Env Suit**			\+D6 to resist environmental effects  
 **Alien Armour**		\+1 to Max Health, Damage limited to 1, Move slower, armour battery lasts for 8 hours.
 
 ### Range Guide
-
-Close Range		0-2 meters	Medium Range		13-50 meters  
-Short Range		3-12 meters	Long Range		51+ meters
+{: .no_toc }
+Close Range		0-2 meters
+Medium Range		13-50 meters  
+Short Range		3-12 meters
+Long Range		51+ meters
 
 ## Gear
 
@@ -134,15 +136,15 @@ Each player character gets some basic gear:
 Clothing, a Pistol, a Flashlight, 2 Rations, Spare Ammo.
 
 ### Restocking
-
+{: .no_toc }
 In between missions the player characters can restock the gear they used (except Energy Cells). And will often be given a reward (see Rewards section).
 
 ### Reloading
-
+{: .no_toc }
 After you use a weapon (in or out of battle) you have to reload it. It takes Spare Ammo if it is a weapon from earth or an Energy Cell if it is an Alien Weapon. Battery powered equipment also needs to be recharged after their time limit using Spare Batteries.
 
 ### Items
-
+{: .no_toc }
 You get 1 of the following:
 
 | **Name** | **Description** | **Name** | **Description** |
@@ -190,7 +192,7 @@ Traps, minions, captured civilians, weird alien fauna, etc…
 # GM Reference
 
 ## What Skills To Focus On
-
+{: .no_toc }
 The skills that the players choose, should be the ones you focus the stories on. So if no one takes linguistics as a skill you don’t need to have the players figure out how to communicate with the aliens they encounter, except in situations where it is important for the story. If a player takes the mountain climbing skill, you should make sure that the story will include mountain climbing.
 
 ## Fast-forward
@@ -206,7 +208,7 @@ When a player runs out of Health, they become unconscious and are out of the gam
 When the players arrive on a new planet through a portal. They can learn the landmarks in the area around the portal, but as they explore they must make tests to avoid obstacles, traps, and to not get lost. The tests can use any of the character stats and can use skills. Most of them will only require 1 success but major obstacles might require more. 
 
 ### Planet Generation
-
+{: .no_toc }
 The list below is the details the player team was given when they were recruited for the mission. Roll on the table 3 times (or choose). The planet…
 
 1. Has a stable climate  
@@ -216,7 +218,7 @@ The list below is the details the player team was given when they were recruited
 5. Isn’t controlled by the bad guys  
 6. Has friendly local fauna
 
-## Diplomacy For Beginners
+## Diplomacy
 
 To change the mind of another group of people, there will be a number of successes required to successfully convince them. The types of rolls and the skills you use will depend on how the players describe their arguments. It is best to limit the number of rolls each player can do to ensure that everyone contributes.
 
@@ -225,17 +227,34 @@ To change the mind of another group of people, there will be a number of success
 During a chase, characters need to track their relative positions with each other. Make sure to include rolls for jumping gaps, climbing walls, and avoiding debris. You will mostly want to consider the players as a group and have them fail/succeed as a group.
 
 ## GM Twists
-
+{: .no_toc }
 Ways for the GM to mix things up.  
-**Weren't you counting?** A character suddenly finds their weapon is out of ammo. Or it malfunctioned.  
-**Curse your inevitable betrayal\!** An NPC the players thought was on their side is discovered to be a double agent.  
-**Stop, or my mom will shoot\!** A civilian the players are supposed to be protecting gets in on the action.  
-**Surprise Attack\!** An enemy has snuck up on the players and they had no chance to detect them, but the first attack of the enemy barely misses its target.  
-**Talk about luck.** An enemy attack hits a piece of gear instead of the character. That piece of gear is damaged and will have to be repaired.  
-**I went to school too\!** An enemy uses a skill that they wouldn’t be expected to have.  
-**How could there be a pyramid here?** A device/structure turns out to be an ancient alien device. It is almost magical because of how advanced it is.  
-**Of course it’s that guy\!** A big baddie shows up just in time to taunt the players characters and escape.  
-**What’s that buzzing?** An area is affected by an alien device making it hard to focus. Everyone in the area gets \-1D6 to all rolls until the device is destroyed.
+**Weren't you counting?**
+A character suddenly finds their weapon is out of ammo. Or it malfunctioned.  
+
+**Curse your inevitable betrayal\!**
+An NPC the players thought was on their side is discovered to be a double agent.  
+
+**Stop, or my mom will shoot\!**
+A civilian the players are supposed to be protecting gets in on the action.  
+
+**Surprise Attack\!**
+An enemy has snuck up on the players and they had no chance to detect them, but the first attack of the enemy barely misses its target.  
+
+**Talk about luck.**
+An enemy attack hits a piece of gear instead of the character. That piece of gear is damaged and will have to be repaired.  
+
+**I went to school too\!**
+An enemy uses a skill that they wouldn’t be expected to have.  
+
+**How could there be a pyramid here?**
+A device/structure turns out to be an ancient alien device. It is almost magical because of how advanced it is.  
+
+**Of course it’s that guy\!**
+A big baddie shows up just in time to taunt the players characters and escape.  
+
+**What’s that buzzing?**
+An area is affected by an alien device making it hard to focus. Everyone in the area gets \-1D6 to all rolls until the device is destroyed.
 
 # Basic Setting
 
@@ -252,11 +271,11 @@ The Heliarchs are a race of beings that have taken over large portions of the ga
 A once thriving world of forests and rivers. Massive areas of the planet's surface have been destroyed by the Heliarch attacks. Most of the valuable resources have been stripped and the population of indigenous species has been wiped out after their slave labour was no longer needed. The planet was once called Azura.
 
 ### Arrival
-
+{: .no_toc }
 The players arrived at the Space Gate in the middle of the remains of a city. They can quickly identify that the Heliarchs were responsible for the destruction on this planet(maybe by identifying the debris left by the attackers or maybe recognizing the damage for the type of weapons they use).
 
 ### Story Hooks
-
+{: .no_toc }
 * Players detect a signal from some kind of technology that is still active on the planet.  
 * Players see signs that some people might still live here.  
 * Players spot some Heliarch soldiers doing some final sweeps of the ruins for survivors or for resources.
@@ -266,11 +285,11 @@ The players arrived at the Space Gate in the middle of the remains of a city. Th
 A simple planet mostly covered in grassland. The humans who are enslaved here are forced to grow crops for the Heliarchs. They worship the Heliarchs as gods.
 
 ### Arrival
-
+{: .no_toc }
 The players arrive at the Space Gate on the outskirts of a farming village. They will likely be approached by the local population. Near the gate are barrels of food ready to be picked up by the Heliarchs.
 
 ### Story Hooks
-
+{: .no_toc }
 * The locals try to arrest the players as heretics.  
 * The players arrive one day before the Heliarchs will arrive and take the food.  
 * A Heliarch monolith ship has landed nearby and has alien technology.
