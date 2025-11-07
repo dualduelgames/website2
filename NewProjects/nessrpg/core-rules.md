@@ -14,7 +14,7 @@ The reason the players are exploring the underground world is to find these gems
 1. TOC
 {:toc}
 
-## Basic Rules
+# Basic Rules
 
 Roll two six sided dice (2d6) and add your stat and compare it to a target number (TN) for the target’s defense or the area TN, or compare it to a roll made by another character.
 
@@ -39,7 +39,7 @@ The number you need to meet or beat to succeed on a roll is called a Target Numb
 |*Hard task for level 10*   |   16 |
 
 ## Advantage and Disadvantage
-
+{: .no_toc }
 Roll 3d6 and drop the lowest: **Advantage** from situational bonuses and superior equipment.  
 Roll 3d6 and drop the highest: **Disadvantage** from situational penalties and poor quality items.
 
@@ -66,8 +66,8 @@ Another service the players might need is to embed a magic gemstone into an item
 **Damage Types**  
 Blunt, Slash, Stab, Fire, Cold, Decay, Holy
 
-### Resistance and Vulnerability
-
+## Resistance and Vulnerability
+{: .no_toc }
 If you are **resistant** to a type of damage, then you only take half damage. And if you are **vulnerable** to the type of damage, you take double the damage. Resistance and vulnerability applies after any damage reductions from your armour or magic items.
 
 ## Armour and Defense
@@ -77,10 +77,10 @@ When you attack someone, your attack roll needs to beat their defense TN. You de
 Some weapons and monsters can ignore armour when dealing damage.
 
 ### Sundering a Shield
-
+{: .no_toc }
 If you are holding a shield and are hit by an attack roll, you can choose to sunder your shield to prevent the damage. This breaks your shield and makes it unusable, though it might be able to be repaired.
 
-## Encounter types
+# Encounter types
 
 **Exploration**: For longer distance travelling. Players can move around a certain number of hexes per day. They do one event per day and one event per night. Some items and spells could allow them to move faster or avoid events. Some events don’t really do anything (flavor text), some require a player to do a skill check to avoid a negative thing or to get a positive thing, some require all players to do the skill check. There are day time events and night time events. Each player can also describe what their character does while exploring. Such as practising a skill or mapping their path.  
 
@@ -124,7 +124,7 @@ When the GM decides to define a turn order for when everyone acts, they get a pl
 **Stand Firm**: Roll a  Brave check. Need to beat the enemy’s Horror TN. A magic item might aid you in this check.  
 **Readied Action**: If you used the Ready an Action action, and the triggering event occurred, you can now perform that action.
 
-## Conditions
+# Conditions
 
 **Covered** At least half of their body is behind an obstacle. They get \+2 to their defense TN. The condition ends if they move away from cover.  
 **Unconscious** The target is unable to perform any actions and is unaware of what is going on around them. Any checks against them, automatically succeed. They still get the bonuses from what they are wearing but not from items being held in their hands. The condition ends if they are shaken awake or if they take damage. The effect also ends after 1 hour.  
@@ -138,7 +138,7 @@ When the GM decides to define a turn order for when everyone acts, they get a pl
 **Restrained** The target cannot move further than 1 m away from the source of this condition. The condition ends if they can do a Strong check to get away from them. The target also gets disadvantage to Nimble checks.  
 **Stunned** The target cannot perform actions of their own, but is aware of their surroundings. The condition ends after the amount of time listed in the ability, or if the target is damaged.
 
-## Underground Navigation
+# Underground Navigation
 
 Trying to find your way to a specific place underground? Roll a D6, if you roll a 6, you successfully get to your destination. You can improve your odds by having equipment and knowledge that helps with navigation. Such as:
 

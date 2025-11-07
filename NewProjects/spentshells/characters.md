@@ -128,7 +128,7 @@ Since the great storms began, some have been able to channel the power that now 
 # Work In Progress:
 
 ## Acolytes
-
+{: .no_toc }
 ![Acolytes](/img/spentshells/acolytes.png)
 
 Are you sure the gods haven’t abandoned us?  
@@ -143,7 +143,7 @@ Are you sure the gods haven’t abandoned us?
 * 
 
 ## Psychics
-
+{: .no_toc }
 ![Psychics](/img/spentshells/psychics.png)
 
 Lying to them might be a bad idea.  

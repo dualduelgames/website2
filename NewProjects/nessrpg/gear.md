@@ -6,13 +6,14 @@ parent: N.E.S.S. RPG
 ---
 
 # Gear
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
 
-## Sundries
+# Sundries
 
 Players can spend copper on generic Sundries. At 5 copper per Sundry. Each unit of Sundry can be used later to have up to 5 copper worth of mundane equipment at any time. This allows players to not have to pick out every piece of equipment they might need before leaving a settlement. This rule is optional and can be used to speed up visits to towns and trading ports.
 
-## Mundane Equipment
+# Mundane Equipment
 
 Prices are in Copper pieces.  
 1 Gold coin \= 10 Silver coins  \= 100 Copper coins. 
@@ -57,9 +58,6 @@ Prices are in Copper pieces.
 | Waterskin | 5 |
 | Wine/Ale (bottle) | 2 |
 | Winter Clothing | 30 |
-
-| Misc. | Cost |
-| ----- | :---: |
 | Animals, Cow | 55 |
 | Animals, Dog/Pig | 25 |
 | Animals, Pack Horse | 200 |
@@ -84,12 +82,16 @@ Prices are in Copper pieces.
 
 \* \= cost per day
 
+## Armour
+
 | Armour Type | Armour  | Cost |
 | ----- | :---: | :---: |
 | Light Armour
 *Gameson, Brigandine* | 1 | 100 |
 | Heavy Armour
 *Full Plate, Chainmail* | 2 | 450 |
+
+## Weapons
 
 | Weapon Type | Damage | Cost |
 | ----- | :---: | :---: |
