@@ -1,8 +1,20 @@
-title: Just the Docs Template
+title: Dual Duel Games
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+site.url: https://dualduelgames.com
+logo: "/img/logo.svg"
+color_scheme: dark
+encoding: UTF-8
+url: https://dualduelgames.com
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Dual Duel Games - Nov 2025 - Ryan Dallaire"
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
