@@ -5,6 +5,7 @@ site.url: https://dualduelgames.com
 logo: "/img/logo.svg"
 color_scheme: dark
 encoding: UTF-8
+baseurl: ""
 url: https://dualduelgames.com
 
 # aux_links:
