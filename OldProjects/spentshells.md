@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spent Shells
-parent: New Projects
+parent: Old Projects
 has_children: true
 nav_order: 2
 permalink: /spentshells

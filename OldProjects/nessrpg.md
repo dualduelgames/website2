@@ -1,7 +1,7 @@
 ---
 layout: default
 title: N.E.S.S. RPG
-parent: New Projects
+parent: Old Projects
 has_children: true
 nav_order: 1
 permalink: /nessrpg
