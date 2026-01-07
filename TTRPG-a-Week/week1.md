@@ -17,7 +17,6 @@ Spells are split into several categories. Each one has a different theme. For a 
 Weapons, Armour, Combat
 
 | 1 | *Enchant Ammo* : A piece of ammo or a thrown weapon becomes enchanted for 15 minutes and begins to glow. It provides the same light as a torch but can be any colour and does not produce any heat. |
-| :---- | :---- |
 | 2 | *Enchant Blade* : A bladed weapon becomes enchanted for a few minutes to deal double damage to undead creatures and spirits. |
 | 3 | *Enchant Bludgeon* : A blunt weapon becomes enchanted for a few minutes to deal double damage to structures and objects. |
 | 4 | *Enchant Armour* : A suit of armour becomes enchanted for 15 minutes to protect the wearer from weather and environmental effects. |
@@ -28,7 +27,6 @@ Weapons, Armour, Combat
 Wind, Sand, Storms
 
 | 1 | *Deafen* : Each creature within a short distance (including you) becomes deaf for a few minutes. |
-| :---- | :---- |
 | 2 | *Wind Gust* : An object or creature (up to the size of a person) gets pushed a short distance away from you. A creature can choose to resist this movement by rolling a Str save. |
 | 3 | *Lightning Bolt* : A metal object that is under a cloudy sky is struck by lightning. The object is likely to be damaged by this. A creature holding the object can make a Dex save to avoid a d6 of damage by dropping the object. |
 | 4 | *Send Message* : You whisper a short message into the air in front of you while thinking of a specific person you can see. The message travels at the speed of a mild breeze before arriving at the target. Only they can hear it. |
@@ -38,7 +36,6 @@ Wind, Sand, Storms
 Plants, Growth, Food
 
 | 1 | *Grow Up* : A plant you touch grows suddenly as if a full growing season happened. Ignoring negative weather conditions and lack of sunlight. |
-| :---- | :---- |
 | 2 | *Bland Tongue* : You and each creature within close range becomes unable to smell or taste for 15 minutes. |
 | 3 | *Veggie-Might* : Plants in close range animate and become hungry for flesh, any flesh. They are weak but last until destroyed or the next dawn. |
 | 4 | *Nature’s Wrath* : A small area becomes difficult terrain as plants sprout out of the ground and walls to trip and snare anyone who tries to move through. |
@@ -48,7 +45,6 @@ Plants, Growth, Food
 Animals, Hunting, Tracking
 
 | 1 | *Speedify* : A willing creature you touch can move at triple its normal speed for 1 hour. At the end of the spell they gain a fatigue. |
-| :---- | :---- |
 | 2 | *Animal Tongue* : For the next 5 minutes, you become able to speak to and understand animals. |
 | 3 | *Hunter’s Mark* : A creature you touch becomes “marked” by an invisible symbol that only you can see. The symbol lasts for 4 hours. By standing still and focusing, you can become aware of the direction to the symbol. |
 | 4 | *Summon Critters* : Small animals and insects from the area around begin to move towards you. They still behave normally when they get to you (eating things, stinging things, etc) |
@@ -58,7 +54,6 @@ Animals, Hunting, Tracking
 Psychics, Telekinesis, Teleporting
 
 | 1 | *Teleport* : Make a WIL save. If you succeed, an object or a willing creature you touch disappears and reappears somewhere you can see within long range. If you failed the check, the GM decides where the creature ends up and the target gains 1 fatigue. |
-| :---- | :---- |
 | 3 | Command : You give a one word command to a target who must follow it. The command can't be self-destructive or suicidal. The spell lasts for 1 hour but the target can make a WIL save every 5 minutes to suppress the command for the next 5 minutes. The spell effect also ends early if the target takes damage. |
 | 4 | Chit-Chat : For 1 hour, you and another consciousness close to you can communicate with each other through your minds. You don’t have to share a language but you both need to know a language. Either creature can end the communication whenever they want. Those around are unaware.. |
 | 5 | *Push-and-Pull* : You make a single interaction with an object within short range of you that you can see. You can only apply up to 25lbs of pressure this way. This effect lasts for only a minute. The effect ends early if the object leaves your line of sight for more than 1 second. |
@@ -69,7 +64,6 @@ Psychics, Telekinesis, Teleporting
 Cold, Slow, Sleep
 
 | 1 | *Ice Patch* : A small circle of ice forms on a surface within a short distance. Any creature trying to move into/through or trying to push/pull on the surface must make a DEX save. |
-| :---- | :---- |
 | 2 | *Sleep* : A creature you can see within short range rolls a WIL save. If they fail, they fall asleep. The spell lasts for up to 15 minutes, or until they are physically woken up. |
 | 3 | *Slow it Down* : A creature within short range of you must make a STR save each turn, on a failure they lose half their movement. The spell lasts for a few minutes. |
 | 4 | *Frosty* : You or a creature you touch becomes unable to feel extreme heat for 2 hours. It still affects them in other ways, they just don’t feel it. |
@@ -79,7 +73,6 @@ Cold, Slow, Sleep
 Water, Rain, Swimming
 
 | 1 | *Water Breathe* : A creature you touch becomes able to breathe underwater for up to 8 hours. |
-| :---- | :---- |
 | 2 | *Call Rain* : Rain begins to fall within an area of 5 meters around you. There must be at least 1 meter above you for the rain to form, otherwise it will form above the roof over your head. Lasts up to 15 minutes. |
 | 3 | *Swim Speed* : You become able to swim with the speed and agility of an aquatic creature. You don’t suffer penalties to your movement for being in the water for up to 8 hours. |
 | 4 | *Drop It* : A small object you can see within 4 meters of you becomes liquid for a moment. Long enough to fall through a grate, out of someone’s hand, or off of a hook. It then returns to its original form. |
@@ -91,7 +84,6 @@ Water, Rain, Swimming
 Death, Darkness, Hiding
 
 | 1 | *Necro-Touch* : You suck 2 of HP out of a creature you touch. You regain the HP you stole, up to your max. |
-| :---- | :---- |
 | 2 | *Raise Dead* : A dead body you touch begins to rise and will follow your simple commands for up to 10 minutes. Its stats are the same as when it was living with a few penalties and no ability to use magic. It doesn’t stitch the body back together, so limbs that were missing remain missing. At the end of the 10 minutes, if the undead has not been destroyed, you must make a WIL save for it to crumble to dust. Failing that roll means the undead body continues to move but no longer follows your commands. |
 | 3 | *Anti-Light* : An object you touch begins shedding darkness around it. The darkness lasts for 1 hour and can suppress up to a campfire in brightness. |
 | 4 | *Vanish* : A creature you touch becomes invisible for up to 15 minutes, but they become momentarily visible when they cast a spell, or interact with anything. |
@@ -103,7 +95,6 @@ Death, Darkness, Hiding
 Healing, Light, Protection
 
 | 1 | *Light* : An object you touch begins shedding light around it. The light lasts for 1 hour and can be up to the brightness of a bonfire. |
-| :---- | :---- |
 | 2 | *Sunlight* : You begin shedding sunlight around you. Lasts for 5 minutes. |
 | 3 | *Death Ward* : You magically protect someone from death for 4 hours. This prevents them from dying if they become mortally wounded and don't receive healing quickly. If they are still dying by the end of the spell, they finally die from their wounds. |
 | 4 | *Gentle Repose* : You magically halt the decomposition process for a corpse next to you for 1 day. It won’t naturally worsen but can still be destroyed by outside forces. |
@@ -116,7 +107,6 @@ Healing, Light, Protection
 Fire, Heat, Pain
 
 | 1 | *Fireburst* : An area of flames appears around you that hits everything nearby. Creatures must roll a DEX save or else take 1d6 damage. Objects in the area are set on fire. |
-| :---- | :---- |
 | 2 | *Hearth Fire* : You are not affected by cold weather/environments. Lasts for 1 day. |
 | 3 | *Fireball* : A ball of fire flies towards a target within line of sight. They must make a DEX save to avoid 2d6 damage. |
 | 4 | *Heat Metal* : A non-magical metal object you touch becomes red hot. This makes the object difficult to hold onto and causes 1d6 burn damage to anyone wearing the object as armour. |
@@ -127,7 +117,6 @@ Fire, Heat, Pain
 Peasants, Merchants, Craftsmen
 
 | 1 | *Hear Ye* : Your voice becomes loud enough to be clearly heard up to 1km away. You can adjust the volume at-will. |
-| :---- | :---- |
 | 2 | *Dapper Dress* : You change the clothes (cleaned/soiled, colour, material, style) of a creature you touch. The value of the clothing cannot increase. |
 | 3 | *Stylish Coiffure* : You change the hairstyle of a creature you touch. You cannot lengthen their hair but can change the colour, shape, and texture of it. |
 | 4 | *Transmutation* : A sphere 1 meter across appears in front of you and slowly turns any non-magical items into their value of gold coins. It takes about 1 minute to turn everything in the circle to coins. |
@@ -148,7 +137,6 @@ Peasants, Merchants, Craftsmen
 Illusions, Scrying, Fusing
 
 | 1 | *Me Two* : You create an illusory representation of yourself within 5 meters. It can move in simple ways but cannot make noise or interact with objects. |
-| :---- | :---- |
 | 2 | *Find My Foe* : While standing still, you focus on a particular person you have met. You become aware of what direction they are and how far away they are. |
 | 3 | *Truther* : While maintaining this spell, you become aware if anyone near you lies to you. The effect lasts for up to 10 minutes. |
 | 4 | *Channel History* : While standing still, you focus on the room around you. You become aware of the kinds of people who entered this room during the last day and how many there were, but not their identities. |
@@ -165,7 +153,6 @@ Poison, Curses, Diseases
 A curse is a prolonged effect on a character. They can be removed through religious ceremonies or by completing a holy quest for a god.
 
 | 1 | *Weakness* (curse) : You curse a creature you touch with weakness. Until the curse is removed, the creature cannot recover their HP unless they rest for at least a day. You lose 1d8 WIL when you apply this curse to someone. |
-| :---- | :---- |
 | 2 | *Detect Poison* : If you stand still and focus for a moment, you can sense if something or someone nearby has been poisoned. |
 | 3 | Toxic Spores : You create a small patch of plants on the ground nearby. When a creature walks over that patch, spores are released into the air. The creature loses 1d6 WIL. |
 | 4 | *Fever Hex (curse)* : You curse a creature you touch for the rest of the day. They will lose 1d6 DEX if they stand still for longer than a moment. |
@@ -178,7 +165,6 @@ A curse is a prolonged effect on a character. They can be removed through religi
 Rocks, Gems, Digging
 
 | 1 | *Like Clay* : For the next 15 minutes, you can mold and shift stone as if it were clay. |
-| :---- | :---- |
 | 2 | *Stone Fists* : For the next 10 minutes, your hands become like stone. They can be used as weapons (d6), for breaking things, and they are resistant to heat, allowing you to reach into a forge and pull out red hot metal. |
 | 3 | *Pebble Shot* : You throw a small rock or pebble. The magic makes it have the force of a ranged weapon, it deals d8 damage. |
 | 4 | *Gem Prison* : You are surrounded by a magical gem that makes you temporarily invulnerable. It lasts for 1 minute, but you cannot leave the space until it ends. You also cannot hear or be heard. Astral prison?  |
@@ -191,7 +177,6 @@ Rocks, Gems, Digging
 Music, Charisma, Formality
 
 | 1 | *Melody of Courage* : Play a magical song. While it is playing (using your action every turn), NPCs and hirelings that can hear you do not have to make Morale checks. |
-| :---- | :---- |
 | 2 | *Harmonic Steps* : For the next 10 minutes, every step you take lets out a soft note, but also you don’t actually touch the surface you are moving along. So you can ignore liquids, traps, and other difficult terrain. |
 | 3 | *Glamour Veil* : For the next 10 minutes, an aura of charisma exudes from you. It reduces hostility, improves your attractiveness and grabs people’s attention. |
 | 4 | *Enthralling Gaze* : A creature that you are looking at becomes enthralled by you and cannot look away. The spell lasts until you look away. |
