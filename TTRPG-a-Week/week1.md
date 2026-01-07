@@ -2,7 +2,7 @@
 layout: default
 title: 1- Cairn Spells
 nav_order: 1
-parent: TTRPg-a-Week
+parent: TTRPG-a-Week
 permalink: /Cairnspells
 ---
 
