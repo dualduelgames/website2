@@ -1,9 +1,9 @@
 ---
 layout: default
-title: New Projects
+title: TTRPG-a-Week
 nav_order: 3
 has_children: true
 search_exclude: true
 ---
 
-# New Projects
+# TTRPG-a-Week
