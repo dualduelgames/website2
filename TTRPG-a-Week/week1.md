@@ -8,6 +8,10 @@ permalink: /Cairnspells
 
 # TTRPG-a-Week - Week 1
 
+For the first week of 2026, I decided to finish a list of extra spells for Cairn second edition.
+I like having the spells categorized in some way. So I pulled the colours idea from old Final Fantasy games. They often had White, Black, Red mages.
+I also watched Journeyquest and one character is a yellow wizard who specializes in Milk-based magic.
+
 # Cairn 2E Spellbooks
 
 Spells are split into several categories. Each one has a different theme. For a random spell you can pick a type of magic, and then roll to see which spell of that type.
