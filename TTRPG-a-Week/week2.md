@@ -8,10 +8,12 @@ permalink: /interobang
 
 # TTRPG-a-Week - Week 2
 
-For the second week of 2026, I created a rule system for an alternate history RPG. Inspired by X-files, Twilight Zone, and the Outer Limits.
+For the second week of 2026, I created a rule system for an alternate history RPG.
+Inspired by X-files, Twilight Zone, the Outer Limits, and Stargate SG1.
 This is part one of the rules, next week will have the second have.
 
 # Interobang ‽ (part 1)
+
 
 The year is 2000 but not the one history promised.
 
@@ -23,22 +25,24 @@ Governments collapsed and were rebuilt. New government agencies were formed to h
 
 Though the invasion failed, it was not undone. Aliens still hide among humanity. No one can be certain who is real, who is watching, and who is waiting.
 
-Fragments of alien technology further changed the world. Some sciences leapt forward through reverse engineering, while others were smothered by secrecy and fear. Surveillance is everywhere. Innovation is dangerous. There are rumors of inventors who get too close to the truth and simply vanish.
+Fragments of alien technology further changed the world. Some sciences leapt forward through reverse engineering, while others were smothered by secrecy and fear. Surveillance is everywhere. Innovation is dangerous. There are rumors of inventors who simply vanish before their inventions can be fully developed.
 
 The internet was pulled back under military and academic control. Long-life batteries exist, but only for those who can afford them. Wireless communication is widely distrusted. Cell phones are fading, replaced by landlines. Fax machines and hard copies replacing email and digital files. Paper maps, floppy disks, cassettes, and VHS tapes remain the standard.
 
 Televisions are heavier than ever, but clearer. Alien technologies allow CRT screens to display high-definition images. Alien polymers allow VHS tapes to hold hours of pristine audio and video, preventing the introduction of new formats.
 
-In the shadows, new beliefs grow. Alien worshipping cults spread across ruined cities and quiet towns alike. Conspiracies are no longer dismissed as insane.
+In the shadows, new beliefs grow. Alien worshipping cults spread across ruined cities and quiet towns alike. Conspiracies are no longer dismissed as nonsense.
 
 This is a world that found the truth… and is still trying to survive it.
 
 
 ## Basic Rules
 
-### Avoiding Danger and Doing Stuff:
+### Avoiding Danger:
 
 When a character is threatened by danger, they roll 2d6 and add the appropriate stat (Body for physical risks or Mind for mental ones). If the total is 7 or higher, they avoid the danger.
+
+### Doing Stuff:
 
 When a player wants their character to attempt an action, they first check their skills. If they have a relevant skill and explain how it applies, the action succeeds automatically (no roll required). 
  
@@ -79,37 +83,37 @@ Skills represent the kinds of things a character has practical experience with. 
 
 This isn’t an exhaustive list. The GM is free to create more skills, remove skills that don’t fit, or even split an existing skill into narrower specialties if that suits the story.
 
-**Engineering**		mechanisms, structures, machines  
-**Computers**		Hacking, general computer use  
-**Electronics**		Electricity, appliances, repairing them  
-**Firearms**		Guns, ammo, repairing them  
-**Close-quarters**		punching, grappling, dodging  
-**Explosives**		Bombs, Fire, smoke  
-**Driving**			Driving and maintaining vehicles  
-**Piloting**			Flying and maintaining planes  
-**Larceny**			Lockpicking, pickpocketing, using traps  
-**Chemistry**		Scientific and industrial chemicals and their reactions  
-**Geology**		Rocks, volcanos, gems, metals  
-**Geography**		Navigation, maps, roads  
-**Occultism**		Conspiracies, alien theories, magic  
-**History**			Past events, figures, myths  
-**Biology**			Animals, organs, plants, bacteria, viruses  
-**Physics**			Math, gravity, rocketry  
-**Athletics**		Jumping, running, climbing, swimming  
-**First Aid**		Medicine, stitches, diseases  
-**Survivalism**		Tracking, hunting, camping  
-**Architecture**		Buildings, designs, layouts  
-**Theology**		religion, cults, gods, demons  
-**Law**			Legal system, bureaucracy, crime  
-**Linguistics**		languages, riddles, cyphers  
-**Persuasion**		Convincing, lying, acting, haggling  
-**Photography**		Cameras, film, video, lighting  
-**Kinesics**		Body language, hidden emotions, non-verbal cues  
-**Art**			Dance, sculpture, painting, singing  
-**Crafting**			Making things, home repair  
-**Astronomy**		Star charts, space knowledge  
-**Cryptology**		Cyphers, decoding, hiding messages  
-**Aliens**			Alien species, technology, languages (Can only be gained by special means)
+| **Engineering** | mechanisms, structures, machines |
+| **Computers** | Hacking, general computer use |
+| **Electronics** | Electricity, appliances, repairing them |
+| **Firearms** | Guns, ammo, repairing them |
+| **Close-quarters** | punching, grappling, dodging |
+| **Explosives** | Bombs, Fire, smoke |
+| **Driving** | Driving and maintaining vehicles |
+| **Piloting** | Flying and maintaining planes |
+| **Larceny** | Lockpicking, pickpocketing, using traps |
+| **Chemistry** | Scientific and industrial chemicals and their reactions |
+| **Geology** | Rocks, volcanos, gems, metals |
+| **Geography** | Navigation, maps, roads |
+| **Occultism** | Conspiracies, alien theories, magic |
+| **History** | Past events, figures, myths |
+| **Biology** | Animals, organs, plants, bacteria, viruses |
+| **Physics** | Math, gravity, rocketry |
+| **Athletics** | Jumping, running, climbing, swimming |
+| **First Aid** | Medicine, stitches, diseases |
+| **Survivalism** | Tracking, hunting, camping |
+| **Architecture** | Buildings, designs, layouts |
+| **Theology** | religion, cults, gods, demons |
+| **Law** | Legal system, bureaucracy, crime |
+| **Linguistics** | languages, riddles, cyphers |
+| **Persuasion** | Convincing, lying, acting, haggling |
+| **Photography** | Cameras, film, video, lighting |
+| **Kinesics** | Body language, hidden emotions, non-verbal cues |
+| **Art** | Dance, sculpture, painting, singing |
+| **Crafting** | Making things, home repair |
+| **Astronomy** | Star charts, space knowledge |
+| **Cryptology** | Cyphers, decoding, hiding messages |
+| **Aliens** | Alien species, technology, languages (Can only be gained by special means) |
 
 ## Actions
 
@@ -121,7 +125,7 @@ On your turn, you can take two actions, then play passes to the next character.
 **Move x2** \- Move from one location to another.  
 **Attack** \- Use a weapon against a target in range.  
 **Attack x2** \- Attack and get \+2 to the damage roll.  
-**Dodge** \- Prepare for danger, gain \+1 to your armour until your next turn.  
+**Dodge** \- Prepare for danger, gain \+1 to a stat or to your armour until your next turn.  
 **Help** \- Set someone else up to succeed, letting them use your skill.  
 **Interact** \- Use an object, speak, manipulate something, or otherwise engage with the scene.
 
@@ -223,6 +227,7 @@ You’re tied to churches, cults, or spiritual movements. They can hide people, 
 ## Quick Guide to the late 90s
 
 This section is to remind players of what was going on in the late 90s. What technology was like back then. And what the prices were for some common things.
+
 
 **Culture in the 90s**
 
