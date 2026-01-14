@@ -35,6 +35,7 @@ In the shadows, new beliefs grow. Alien worshipping cults spread across ruined c
 
 This is a world that found the truth… and is still trying to survive it.
 
+---
 
 ## Basic Rules
 
@@ -77,6 +78,8 @@ Ammunition is tracked abstractly using “reloads” instead of tracking bullets
 
 After any scene in which a weapon is used, the player rolls 2d6. If the result is equal to or lower than the weapon’s Ammo Rating, the weapon runs dry and must spend one “reload” before it can be used again. If the roll is higher than the Ammo Rating, there’s still ammo left and the weapon can keep firing.
 
+---
+
 ## Skills
 
 Skills represent the kinds of things a character has practical experience with.  It doesn't mean they are experts in that field, only that they have spent time learning it. 
@@ -115,6 +118,8 @@ This isn’t an exhaustive list. The GM is free to create more skills, remove sk
 | **Cryptology** | Cyphers, decoding, hiding messages |
 | **Aliens** | Alien species, technology, languages (Can only be gained by special means) |
 
+---
+
 ## Actions
 
 Actions can occur on a moment by moment basis, or in more general roleplaying turns.
@@ -129,9 +134,13 @@ On your turn, you can take two actions, then play passes to the next character.
 **Help** \- Set someone else up to succeed, letting them use your skill.  
 **Interact** \- Use an object, speak, manipulate something, or otherwise engage with the scene.
 
+---
+
 ## Index Cards
 
 Use index cards to represent locations and important NPCs on the table. This helps everyone clearly see where characters are and how scenes are laid out. Players are encouraged to write notes directly on the cards to record details, changes, or discoveries so important information isn’t forgotten later.
+
+---
 
 ## Equipment
 
@@ -165,6 +174,8 @@ Use index cards to represent locations and important NPCs on the table. This hel
 | Bullet Proof Vest | $1200 | Gain \+1 Armour, can be worn under clothes. |
 | Heavy Outdoor Clothing | $160 | Thick and protective, 1 Armour. |
 | Alien Chemistry Battery | $1000 | Can power a device for a week straight. |
+
+---
 
 ## Connections
 
@@ -223,6 +234,8 @@ You know doctors, nurses, or hospital admins. They can treat injuries quietly, a
 
 **Religious Circles**  
 You’re tied to churches, cults, or spiritual movements. They can hide people, move quietly through communities, or spread messages fast.
+
+---
 
 ## Quick Guide to the late 90s
 
@@ -321,6 +334,8 @@ TV Shows
 * Movie \- $15 on VHS tape, $2 VHS rental  
 * Music Album \- $7 per cassette tape, $20 per CD  
 * Beer \- $6 for a 6 pack
+
+---
 
 # Continued next week in part 2
 
