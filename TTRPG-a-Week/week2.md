@@ -41,13 +41,13 @@ This is a world that found the truth… and is still trying to survive it.
 
 ### Avoiding Danger:
 
-When a character is threatened by danger, they roll 2d6 and add the appropriate stat (Body for physical risks or Mind for mental ones). If the total is 7 or higher, they avoid the danger.
+When a character is threatened by danger, they roll 2d6 and add the appropriate stat (Body for physical risks or Mind for mental ones). If the total is **10** or higher, they avoid the danger.
 
 ### Doing Stuff:
 
 When a player wants their character to attempt an action, they first check their skills. If they have a relevant skill and explain how it applies, the action succeeds automatically (no roll required). 
  
-If they lack a suitable skill, or if the action must be done under extreme time pressure, they can still attempt it. In that case it comes down to luck. They roll 2d6 with no modifiers. Whether they succeed depends entirely on the roll and the situation at hand.
+If they lack a suitable skill, or if the action must be done under extreme time pressure, they can still attempt it. In that case it comes down to luck. They roll 2d6 with no modifiers and try to beat **7**. Whether they succeed depends entirely on the roll.
 
 ### Taking Hits:
 
