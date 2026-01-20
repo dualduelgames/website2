@@ -41,7 +41,7 @@ This is a world that found the truth… and is still trying to survive it.
 
 ### Avoiding Danger:
 
-When a character is threatened by danger, they roll 2d6 and add the appropriate stat (Body for physical risks or Mind for mental ones). If the total is **10** or higher, they avoid the danger.
+When a character is threatened by danger, they make a Saving Throw. Roll 2d6 and add the appropriate stat (Body for physical risks or Mind for mental ones). If the total is **10** or higher, they avoid the danger.
 
 ### Doing Stuff:
 
@@ -146,11 +146,7 @@ Use index cards to represent locations and important NPCs on the table. This hel
 
 | Name | Price | Description |
 | :---- | :---- | :---- |
-| Rifle | $176 | Does 2D6 damage per bullet that hits. Two-handed. |
-| Handgun | $100 | Does 1D6 damage per bullet that hits. One-handed. |
 | Box of bullets | $1 | 1 Reload |
-| Baseball Bat | $5 | Does 1D6 damage. One-handed. |
-| Axe | $25 | Does 2D6 damage, Two-handed. |
 | Cell phone | $900 | Includes optional belt holster. Limited range. |
 | Cell Plan | $20/month | But also $0.50 per minute, $0.10 per text message. |
 | Binoculars | $50 |  |
@@ -171,8 +167,6 @@ Use index cards to represent locations and important NPCs on the table. This hel
 | VHS Camcorder | $250 | Large and loud. |
 | Lockpicks | $25 | Don’t get caught with them in your pockets. |
 | First Aid Kit | $20 | Restores 6 SP when used. |
-| Bullet Proof Vest | $1200 | Gain \+1 Armour, can be worn under clothes. |
-| Heavy Outdoor Clothing | $160 | Thick and protective, 1 Armour. |
 | Alien Chemistry Battery | $1000 | Can power a device for a week straight. |
 
 ---
