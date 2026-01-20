@@ -8,7 +8,9 @@ parent: Fantasy Age
 {: .no_toc }
 **By Ryan Dallaire - July 2023**
 
-I started converting some rules for MCDM's "Kingdoms and Warfare" book. Swapping out the 5E rules. I never finished it.
+I started converting some rules for MCDM's "Kingdoms and Warfare" book. Swapping out the 5E rules.
+
+But I never finished it.
 
 {: .note }
 > Normal text replaces what is in the book.  

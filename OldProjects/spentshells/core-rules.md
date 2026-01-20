@@ -43,8 +43,10 @@ Skills are descriptions for a type of roll you get a \+2 bonus to. Such as being
 
 ## **Difficulty Target Numbers**
 {: .no_toc }
-| **Easy** | **Normal** | **Medium** | **Tough** |
-| 11 | 13 | 15 | 17 |
+**Easy:** 11
+**Normal:** 13
+**Medium:** 15
+**Tough:** 17
 
 ## **Effort tests**
 {: .no_toc }

@@ -85,20 +85,23 @@ Minor actions: are smaller actions that can be done while you perform a major ac
 Each player character gets some basic gear:  
 Clothing, a Pistol, a Flashlight, 1 Ration.
 
-| You get 1 of the following: |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- |
-| **Name** | **Description** |  | **Name** | **Description** |
-| SMG | Short Range, 2 Damage |  | Binoculars |  |
-| Pistol | Short Range, 1 Damage |  | Flashlight | Battery lasts 12 hours. |
-| Sniper Rifle | Medium Range, 2 Damage |  | Radio | 2 way comm, long range. |
-| Grenade | Short Range, 4 Damage |  | Rations | 1 day of food and water |
-| Spare Ammo | Reload a weapon from earth. |  | Med Kit | Heals 3 HP, 3 uses per kit. |
-| Bullet-proof Vest | 1 armour vs ranged attacks. |  | Env Suit | Adv to resist envir effects. |
-| Repair Kit | Repair earth tech, minor dmg |  |  |  |
-| **Special equipment: (you can't pick these but can find them)** |  |  |  |  |
-| Alien Zapper | Short Range, Stuns/3 dmg |  | EM Field Gen | Immune to 3 stuns |
-| Alien Staff | Medium Range, 3 Damage |  | Alien Armour | Slow, 1 armour vs all |
-| Energy Cell | Reload/recharge alien tech. |  |  |  |
+You get 1 of the following:
+| **Name** | **Description** | **Name** | **Description** |
+| :---- | :---- | :---- | :---- |
+| SMG | Short Range, 2 Damage | Binoculars |  |
+| Pistol | Short Range, 1 Damage | Flashlight | Battery lasts 12 hours. |
+| Sniper Rifle | Medium Range, 2 Damage | Radio | 2 way comm, long range. |
+| Grenade | Short Range, 4 Damage | Rations | 1 day of food and water |
+| Spare Ammo | Reload a weapon from earth. | Med Kit | Heals 3 HP, 3 uses per kit. |
+| Bullet-proof Vest | 1 armour vs ranged attacks. | Env Suit | Adv to resist envir effects. |
+| Repair Kit | Repair earth tech, minor dmg |  |  |
+
+Special equipment: (you can't pick these but can find them)
+| **Name** | **Description** | **Name** | **Description** |
+| :---- | :---- | :---- | :---- |
+| Alien Zapper | Short Range, Stuns/3 dmg | EM Field Gen | Immune to 3 stuns |
+| Alien Staff | Medium Range, 3 Damage | Alien Armour | Slow, 1 armour vs all |
+| Energy Cell | Reload/recharge alien tech. |  |  |
 
 ### Restocking
 

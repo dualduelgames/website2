@@ -66,8 +66,8 @@ You can do 2 of the following actions per turn:
 
 ### Damage Guide
 {: .no_toc }
+
 | Poison | 2 Damage per Minute |
-| :---- | :---- |
 | Melee Attacks | 4 Damage |
 | Bullets | 6 Damage |
 | Explosions | 10 Damage |
@@ -116,7 +116,7 @@ A description of the evil organization and some of its biggest members.
 ### What they want to do:
 
 | Roll D10 | Action | Roll D10 | Action |
-| :---: | ----- | :---: | ----- |
+| ----: | :---- | ----: | :---- |
 | 1 | Steal / Kidnap | 6 | Steal from |
 | 2 | Destroy / Kill | 7 | Take control of |
 | 3 | Clone / Copy | 8 | Mutate |
@@ -126,7 +126,7 @@ A description of the evil organization and some of its biggest members.
 ### Who/What they want to do it to:
 
 | Roll D10 | Person | Roll D10 | Thing |
-| :---: | ----- | :---: | ----- |
+| ----: | :---- | ----: | :---- |
 | 1 | A world leader(s) | 6 | The moon |
 | 2 | Renown Scientist(s) | 7 | The UN |
 | 3 | Famous Celebrity | 8 | The internet |

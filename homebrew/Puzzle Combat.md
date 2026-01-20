@@ -7,6 +7,8 @@ parent: Homebrew
 
 # Puzzle Combat
 
+I read some articles about this style of combat. Decided to write out some notes on it for me to use.
+
 Instead of fighting it out, plates have to plan and find ways around obstacles in order to “defeat” the enemy. Good for large boss battles where you don’t want to do a drawn out blow-by-blow fight.
 
 The enemy will have several “traits” that make them dangerous and have to be overcome or negated by the players.
