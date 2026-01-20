@@ -8,7 +8,5 @@ search_exclude: true
 
 # Contact Me
 
-contact details here
-
-Not sure which contact methods to list
+[Contact Form](https://forms.gle/NoZS2zwkoGp9yiTh8)
 
