@@ -295,10 +295,11 @@ Gear: thick jacket, club (2D6 damage), pistol (1D6 damage)
 
 ## Quick Story Idea
 
-**SPOILER ALERT!**
+
+**Spoiler Alert!**
 
 <details markdown="block">
-<summary>Story Details</summary>
+<summary>Click here to view Story Details</summary>
 
 Alien artifact found in a forest. Someone has been investigating it for a few weeks.
 
