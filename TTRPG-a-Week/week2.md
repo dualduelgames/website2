@@ -10,7 +10,7 @@ permalink: /interobang
 
 For the second week of 2026, I created a rule system for an alternate history RPG.
 Inspired by X-files, Twilight Zone, the Outer Limits, and Stargate SG1.
-This is part one of the rules, next week will have the second have.
+This is part one of the rules, next week will have the [second half](/interobang2).
 
 # Interobang ‽ (part 1)
 
@@ -331,6 +331,6 @@ TV Shows
 
 ---
 
-# Continued next week in part 2
+# Continued next week in [part 2](/interobang2)
 
 Character creation rules, Enemies, Story idea
