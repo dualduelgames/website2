@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3- Interobang Rules
+title: 3- Interobang Part 2
 nav_order: 3
 parent: TTRPG-a-Week
 permalink: /interobang2
