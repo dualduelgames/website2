@@ -20,7 +20,8 @@ Tables you roll on could give you skills, connections, extra SP, or even a bonus
 2. Your Stress Protection maximum starts at 12\.  
 3. Roll on the early life table. Get skills, connections, or extra max SP.  
 4. Choose a type of career path. Military, Blue-collar, white-collar, academic.  
-5. Roll on the career table for your chosen career path. Get a skill or 2 and maybe a connection. You also get a \+1 bonus to either Body or Mind.  
+5. Roll on the career table for your chosen career path. Get a skill or 2 and maybe a connection. You also get a \+1 bonus to either Body or Mind.
+6. You get $400 to spend on equipment.
 
 ## Early Life
 
