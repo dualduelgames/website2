@@ -13,6 +13,12 @@ Took a week off. Spent some time playing around with [Tiny Glade](https://store.
 It is an amzing tool for making small towns and castles for TTRPGs.
 The export function isn't designed for that use, but it can work.
 
+![tiny glade screenshot 1](/img/tinyglade/1.png)
+
+![tiny glade screenshot 2](/img/tinyglade/2.png)
+
+![tiny glade screenshot 3](/img/tinyglade/3.png)
+
 # Interobang Images
 
 I generated some AI images for the Interobang rules system I wrote. I am hoping to use them to run a test session of the game.
