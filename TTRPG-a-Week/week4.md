@@ -1,11 +1,13 @@
 ---
 layout: default
-title: 4- Rest
+title: 4- Break
 nav_order: 4
 parent: TTRPG-a-Week
 ---
 
 # TTRPG-a-Week - Week 4
+
+I took a week off.
 
 # Tiny Glade (available on steam)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- Cairn Spells
+title: 1- Extra Spells (for Cairn 2E)
 nav_order: 1
 parent: TTRPG-a-Week
 permalink: /Cairnspells

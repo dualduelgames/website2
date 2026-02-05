@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5- Diabolical Darkness
+title: 5- Diabolical Darkness (for Shadowdark)
 nav_order: 5
 parent: TTRPG-a-Week
 ---
