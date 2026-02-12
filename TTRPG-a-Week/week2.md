@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2- Interobang Rules
+title: 2- Interobang (RPG System)
 nav_order: 2
 parent: TTRPG-a-Week
 permalink: /interobang

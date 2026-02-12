@@ -1,11 +1,14 @@
 ---
 layout: default
-title: 6- Coordinated Flight
+title: 6- Coordinated Flight (RPG System)
 nav_order: 6
 parent: TTRPG-a-Week
 ---
 
 # TTRPG-a-Week - Week 6
+
+I wanted to make a system where each player controls several people.
+Increasing the scale of what the players can do.
 
 # Coordinated Flight RPG System
 
@@ -273,3 +276,9 @@ Gear: hand lasers, small communicator.
 
 Heist story. The flotilla of player ships is sent to recover an alien artifact that was found on the surface of a moon. The artifact was found by a research team stationed on the surface of the moon. After the discovery was announced, a fleet of criminals moved in to seize the station and claim the artifact for themselves. There is now a conflict happening between the criminals and the corporation that funded the research team.  
 The players have been hired by an organization of local governments. They want the artifact recovered and the conflict ended. And are willing to pay handsomely to any group that can get it done.
+
+---
+
+# Ship Sheet
+
+![character sheet for the game](/img/coordflightsheet.png)
