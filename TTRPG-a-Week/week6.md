@@ -153,22 +153,6 @@ You can choose or roll 1D6:
 
 ---
 
-# Cargo Slots
-
-The cargo bay can also be damaged, and cargo can be destroyed.
-
-* 1 slot can hold 2 passengers and their supplies  
-* 1 slot can hold Extra ammo for a ship weapon  
-* 1 slot can hold a few pieces of extra equipment for the crew members to bring with them on away missions.  
-* 3 slots can hold a shuttle craft  
-* 1 slot can hold trade goods to sell  
-* 2 slots can hold 2 extra crew members and their living quarters and their work spaces  
-* 1 slot can hold a med bay for 1 patient  
-* 2 slots can hold extra fuel for very long distance travel.  
-* 1 slot can hold 6 people temporarily, such as moving them from a planet surface to a station in orbit
-
----
-
 # Ranges
 
 ## Weapon Ranges
@@ -269,16 +253,3 @@ Weapon: lasers, 2 damage, short range 5 ammo.
 **Enemy patrol**. Crew: 3  
 Eng: 1, Sec: 2  
 Gear: hand lasers, small communicator.
-
----
-
-# Adventure Idea
-
-Heist story. The flotilla of player ships is sent to recover an alien artifact that was found on the surface of a moon. The artifact was found by a research team stationed on the surface of the moon. After the discovery was announced, a fleet of criminals moved in to seize the station and claim the artifact for themselves. There is now a conflict happening between the criminals and the corporation that funded the research team.  
-The players have been hired by an organization of local governments. They want the artifact recovered and the conflict ended. And are willing to pay handsomely to any group that can get it done.
-
----
-
-# Ship Sheet
-
-![character sheet for the game](/img/coordflightsheet.png)
