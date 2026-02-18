@@ -65,7 +65,8 @@ Enter the players: a flotilla of independent ships hired because they’re denia
 
 Not just valuable, it is also *active* and *unstable*.
 It is a key of sorts. No one knows yet what it opens, but it is constantly broadcasting a signal out into space looking for its lock.
-The criminals don't understand it. The corporation knows enough to know it is valuable. The government fears what it unlocks.
+
+The criminals don't understand it. The corporation knows it is valuable. The government fears what it unlocks.
 
 ## The Factions
 
