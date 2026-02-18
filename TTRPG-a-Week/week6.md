@@ -3,6 +3,7 @@ layout: default
 title: 6- Coordinated Flight (RPG System)
 nav_order: 6
 parent: TTRPG-a-Week
+permalink: /coordflight
 ---
 
 # TTRPG-a-Week - Week 6
@@ -253,3 +254,5 @@ Weapon: lasers, 2 damage, short range 5 ammo.
 **Enemy patrol**. Crew: 3  
 Eng: 1, Sec: 2  
 Gear: hand lasers, small communicator.
+
+Click [HERE](/coordflight2) for part 2!
