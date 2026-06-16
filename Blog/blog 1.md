@@ -6,7 +6,7 @@ parent: Blog
 permalink: /Cairnspells
 ---
 
-# Jan 7 2026
+# Jan 7 2026 - Blog
 
 I decided to finish a list of extra spells for Cairn second edition.
 I like having the spells categorized in some way. So I pulled the colours idea from old Final Fantasy games. They often had White, Black, Red mages.

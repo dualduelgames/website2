@@ -5,7 +5,7 @@ nav_order: 992
 parent: Blog
 ---
 
-# Mar 11 2026
+# Mar 11 2026 - Blog
 
 To make it feel like an old-school RPG video game.
 

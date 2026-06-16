@@ -5,7 +5,7 @@ nav_order: 996
 parent: Blog
 ---
 
-# Jan 28 2026
+# Jan 28 2026 - Blog
 
 # Interobang Images
 

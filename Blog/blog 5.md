@@ -5,7 +5,7 @@ nav_order: 995
 parent: Blog
 ---
 
-# Feb 4 2026
+# Feb 4 2026 - Blog
 
 # Diabolical Darkness (For Shadowdark RPG)
 

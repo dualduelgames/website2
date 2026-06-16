@@ -6,7 +6,7 @@ parent: Blog
 permalink: /interobang2
 ---
 
-# Jan 21 2026
+# Jan 21 2026 - Blog
 
 This is part two of the rules, last week was the [first half](/interobang).
 

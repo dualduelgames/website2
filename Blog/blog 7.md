@@ -6,7 +6,7 @@ parent: Blog
 permalink: /coordflight2
 ---
 
-# Feb 18 2026
+# Feb 18 2026 - Blog
 
 Part 2 of the system. Redid Cargo items. Made rules for how to create your ship. And expanded on Adventure Idea.
 

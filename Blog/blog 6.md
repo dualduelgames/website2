@@ -6,7 +6,7 @@ parent: Blog
 permalink: /coordflight
 ---
 
-# Feb 11 2026
+# Feb 11 2026 - Blog
 
 I wanted to make a system where each player controls several people.
 Increasing the scale of what the players can do.

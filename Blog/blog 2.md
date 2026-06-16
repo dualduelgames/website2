@@ -6,7 +6,7 @@ parent: Blog
 permalink: /interobang
 ---
 
-# Jan 14 2026
+# Jan 14 2026 - Blog
 
 I created a rule system for an alternate history RPG.
 Inspired by X-files, Twilight Zone, the Outer Limits, and Stargate SG1.
