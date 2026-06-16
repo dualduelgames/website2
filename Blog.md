@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TTRPG-a-Week
+title: Blog
 nav_order: 3
 has_children: true
 search_exclude: true
 ---
 
-# TTRPG-a-Week
+# Blog

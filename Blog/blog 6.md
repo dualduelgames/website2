@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 6- Coordinated Flight (RPG System)
-nav_order: 6
-parent: TTRPG-a-Week
+title: Coordinated Flight (RPG System)
+nav_order: 994
+parent: Blog
 permalink: /coordflight
 ---
 
-# TTRPG-a-Week - Week 6
+# Feb 11 2026
 
 I wanted to make a system where each player controls several people.
 Increasing the scale of what the players can do.

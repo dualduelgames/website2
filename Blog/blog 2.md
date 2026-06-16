@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 2- Interobang (RPG System)
-nav_order: 2
-parent: TTRPG-a-Week
+title: Interobang (RPG System)
+nav_order: 998
+parent: Blog
 permalink: /interobang
 ---
 
-# TTRPG-a-Week - Week 2
+# Jan 14 2026
 
-For the second week of 2026, I created a rule system for an alternate history RPG.
+I created a rule system for an alternate history RPG.
 Inspired by X-files, Twilight Zone, the Outer Limits, and Stargate SG1.
 This is part one of the rules, next week will have the [second half](/interobang2).
 

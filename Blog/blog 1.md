@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 1- Extra Spells (for Cairn 2E)
-nav_order: 1
-parent: TTRPG-a-Week
+title: Extra Spells (for Cairn 2E)
+nav_order: 999
+parent: Blog
 permalink: /Cairnspells
 ---
 
-# TTRPG-a-Week - Week 1
+# Jan 7 2026
 
-For the first week of 2026, I decided to finish a list of extra spells for Cairn second edition.
+I decided to finish a list of extra spells for Cairn second edition.
 I like having the spells categorized in some way. So I pulled the colours idea from old Final Fantasy games. They often had White, Black, Red mages.
 I also watched Journeyquest and one character is a yellow wizard who specializes in Milk-based magic.
 

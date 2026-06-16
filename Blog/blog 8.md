@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 10- Video Game Style TTRPG
-nav_order: 10
-parent: TTRPG-a-Week
+title: Video Game Style TTRPG
+nav_order: 992
+parent: Blog
 ---
 
-# TTRPG-a-Week - Week 10
+# Mar 11 2026
 
 To make it feel like an old-school RPG video game.
 

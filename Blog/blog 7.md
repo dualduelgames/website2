@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 7- Coordinated Flight (part 2)
-nav_order: 7
-parent: TTRPG-a-Week
+title: Coordinated Flight (part 2)
+nav_order: 993
+parent: Blog
 permalink: /coordflight2
 ---
 
-# TTRPG-a-Week - Week 7
+# Feb 18 2026
 
 Part 2 of the system. Redid Cargo items. Made rules for how to create your ship. And expanded on Adventure Idea.
 

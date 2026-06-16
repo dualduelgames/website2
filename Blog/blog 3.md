@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 3- Interobang Part 2
-nav_order: 3
-parent: TTRPG-a-Week
+title: Interobang Part 2
+nav_order: 997
+parent: Blog
 permalink: /interobang2
 ---
 
-# TTRPG-a-Week - Week 3
+# Jan 21 2026
 
 This is part two of the rules, last week was the [first half](/interobang).
 

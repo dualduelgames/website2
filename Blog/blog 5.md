@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 5- Diabolical Darkness (for Shadowdark)
-nav_order: 5
-parent: TTRPG-a-Week
+title: Diabolical Darkness (for Shadowdark)
+nav_order: 995
+parent: Blog
 ---
 
-# TTRPG-a-Week - Week 5
+# Feb 4 2026
 
 # Diabolical Darkness (For Shadowdark RPG)
 
