@@ -11,6 +11,6 @@ search_exclude: true
 This website is a home for my TTRPG Game Design projects. 
 Including both Homebrew content for existing games and my own game prototypes.
 
-Check out the [blog](/blog).
+Check out the [blog](/blog.html).
 
 Ryan Dallaire 2026
